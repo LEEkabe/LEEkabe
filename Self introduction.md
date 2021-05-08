@@ -1,2 +1,0 @@
-# Hey!Guys!
-## Welcome to my github page! My name is kabe Lee. Now i'm just a rookie engineer.I hope you can gain something after browsing my page and witness my growth. Let us become a good engineer together!
